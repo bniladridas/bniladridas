@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Niladri!
+- 👀 I’m interested in learning and relocating
+- 🌱 I’m currently learning probability
+- ⚡ Fun fact: third time changed username
