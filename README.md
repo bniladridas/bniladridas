@@ -1,3 +1,8 @@
+FEEL THE CODING VIBE! 😇
+![img](https://github.com/bniladridas/bniladridas/blob/main/freeCodeCamp.jpg)
+- [View my freeCodeCamp](https://www.freecodecamp.org/niladrridas)
+- [View my LeetCode](https://leetcode.com/u/bniladridas/)
+- [View my GitLab](https://gitlab.com/niladridas)
 ## Goals 🎯
 - **Enhance teaching techniques**: Discover methods to make learning more interactive.
 - **Promote mindfulness through tea**: Learn how a cup of tea can refresh both the mind and teaching strategies.
