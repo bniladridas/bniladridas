@@ -1,4 +1,4 @@
-# FEEL THE CODING VIBE! 😇
+![# FEEL THE CODING VIBE! 😇](https://github.com/bniladridas/bniladridas/blob/main/FEEL%20THE%20CODING-VIBE!.png)
 ![img](https://github.com/bniladridas/bniladridas/blob/main/freeCodeCamp.jpg)
 
 ## Welcome to My Developer Profile
