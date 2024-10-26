@@ -1,5 +1,5 @@
-![# FEEL THE CODING VIBE! 😇](https://github.com/bniladridas/bniladridas/blob/main/FEEL%20THE%20CODING-VIBE!.png)
-![img](https://github.com/bniladridas/bniladridas/blob/main/freeCodeCamp.jpg)
+![# FEEL THE CODING VIBE! 😇](https://raw.githubusercontent.com/bniladridas/bniladridas/main/FEEL%20THE%20CODING-VIBE!.png)
+![img](https://raw.githubusercontent.com/bniladridas/bniladridas/main/freeCodeCamp.jpg)
 - [View my freeCodeCamp](https://www.freecodecamp.org/niladrridas)
 - [View my LeetCode](https://leetcode.com/u/bniladridas/)
 - [View my GitLab](https://gitlab.com/niladridas)
