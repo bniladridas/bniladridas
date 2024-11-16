@@ -52,3 +52,45 @@
 </tr>
 </table>
 </div>
+
+# 🚀 Featured Projects
+
+## 🔮 Age Prediction AI
+`Machine Learning` `Computer Vision` `Streamlit` `TensorFlow`
+
+An intuitive age prediction application powered by deep learning that instantly estimates age from photos.
+
+**Key Achievements:**
+- 📱 Built responsive web interface using Streamlit for seamless user experience
+- 🧠 Leveraged CNN architecture with 20,000+ training images for high accuracy
+- ⚡ Optimized with TensorFlow & Keras for real-time predictions
+
+[View Project](https://github.com/bniladridas/age-pred) • [Live Demo](your-demo-link)
+
+---
+
+## 📊 Churn Prediction Engine
+`Data Science` `Random Forest` `Python` `Seaborn`
+
+Advanced ML model predicting subscriber churn for a major streaming platform with 90%+ accuracy.
+
+**Technical Highlights:**
+- 💾 Processed 243,000+ entries for model training
+- 🎯 Achieved 90%+ prediction reliability
+- 📈 Implemented comprehensive visualization using Seaborn & Matplotlib
+
+[View Project](https://github.com/bniladridas/ChurnPrediction)
+
+---
+
+## 🖼️ DeepVision Classifier
+`Deep Learning` `TensorFlow` `MobileNetV2` `CIFAR-10`
+
+State-of-the-art image classification system using MobileNetV2 architecture.
+
+**Core Features:**
+- 🔍 Processes diverse object types with high accuracy
+- 📊 75% accuracy on CIFAR-10 (60,000 images)
+- 🛠️ Custom hyperparameter tuning & real-time monitoring
+
+[View Project](https://github.com/bniladridas/deepvision)
