@@ -65,7 +65,7 @@ An intuitive age prediction application powered by deep learning that instantly 
 - 🧠 Leveraged CNN architecture with 20,000+ training images for high accuracy
 - ⚡ Optimized with TensorFlow & Keras for real-time predictions
 
-[View Project](https://github.com/bniladridas/age-pred) • [Live Demo](your-demo-link)
+[View Project](https://github.com/bniladridas/age-pred) • [Live Demo](https://age-pred.vercel.app/)
 
 ---
 
