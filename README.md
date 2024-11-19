@@ -1,6 +1,6 @@
 <div align="center">
   
-## 🌟 Featured Highlights
+## 🌟 **Featured Highlights**
 
 <table>
 <tr>
@@ -11,18 +11,18 @@
     <img src="/image/newsletter.png" width="100%" alt="Newsletter"/>
   </a>
   <p align="center">
-    Your go-to cybersecurity digest with 805+ subscribers
+    Proudly curating cybersecurity insights for 805+ subscribers.
   </p>
 </p>
 </td>
 <td width="50%">
-<h3 align="center">Featured in BLACKBOX.AI 🏆</h3>
+<h3 align="center">Recognized by BLACKBOX.AI 🏆</h3>
 <p align="center">
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7260746153669906432/" target="_blank">
     <img src="/image/blackboxai.png" width="100%" alt="BLACKBOX.AI"/>
   </a>
   <p align="center">
-    Recognized for innovative AI contributions
+    Celebrated for cutting-edge AI contributions and innovation.
   </p>
 </p>
 </td>
@@ -36,7 +36,7 @@
     <img src="/image/github.png" width="100%" alt="GitHub Stats"/>
   </a>
   <p align="center">
-    Open-source contributions & projects
+    Explore my open-source projects and contributions.
   </p>
 </td>
 <td width="50%">
@@ -46,51 +46,74 @@
     <img src="/image/leetcode.jpeg" width="100%" alt="LeetCode Stats"/>
   </a>
   <p align="center">
-    Problem-solving & coding challenges
+    Tackling coding challenges with passion and precision.
   </p>
 </td>
 </tr>
 </table>
 </div>
 
-# 🚀 Featured Projects
+---
 
-## 🔮 Age Prediction AI
+## 🔧 **About Me**
+
+I'm a passionate **AI Innovator** and **Cybersecurity Advocate** committed to leveraging technology for impactful solutions. My expertise spans **Machine Learning**, **Deep Learning**, and **Data Science**, combined with hands-on experience in **full-stack development** and **Linux systems**. I thrive on solving challenging problems and driving innovation, whether through open-source contributions or curated newsletters.
+
+---
+
+## 🚀 **Featured Projects**
+
+### 🔮 **Age Prediction AI**  
 `Machine Learning` `Computer Vision` `Streamlit` `TensorFlow`
 
-An intuitive age prediction application powered by deep learning that instantly estimates age from photos.
+An intuitive age prediction tool powered by deep learning, instantly estimating age from images with precision.
 
-**Key Achievements:**
-- 📱 Built responsive web interface using Streamlit for seamless user experience
-- 🧠 Leveraged CNN architecture with 20,000+ training images for high accuracy
-- ⚡ Optimized with TensorFlow & Keras for real-time predictions
+- 📱 **Responsive UI**: Built with Streamlit for seamless user interaction.  
+- 🧠 **High Accuracy**: Trained on 20,000+ images with a fine-tuned CNN model.  
+- ⚡ **Real-Time Results**: Optimized for speed with TensorFlow and Keras.  
 
 [View Project](https://github.com/bniladridas/age-pred) • [Live Demo](https://age-pred.vercel.app/)
 
 ---
 
-## 📊 Churn Prediction Engine
+### 📊 **Churn Prediction Engine**  
 `Data Science` `Random Forest` `Python` `Seaborn`
 
-Advanced ML model predicting subscriber churn for a major streaming platform with 90%+ accuracy.
+Predicts subscriber churn for streaming platforms with over 90% accuracy, empowering businesses to retain customers.
 
-**Technical Highlights:**
-- 💾 Processed 243,000+ entries for model training
-- 🎯 Achieved 90%+ prediction reliability
-- 📈 Implemented comprehensive visualization using Seaborn & Matplotlib
+- 💾 **Big Data Handling**: Processed 243,000+ entries for robust model training.  
+- 🎯 **High Reliability**: Achieved over 90% prediction accuracy.  
+- 📈 **Data Insights**: Visualized key trends with Seaborn and Matplotlib.  
 
 [View Project](https://github.com/bniladridas/ChurnPrediction)
 
 ---
 
-## 🖼️ DeepVision Classifier
+### 🖼️ **DeepVision Classifier**  
 `Deep Learning` `TensorFlow` `MobileNetV2` `CIFAR-10`
 
-State-of-the-art image classification system using MobileNetV2 architecture.
+A state-of-the-art image classification system designed for diverse object recognition tasks.
 
-**Core Features:**
-- 🔍 Processes diverse object types with high accuracy
-- 📊 75% accuracy on CIFAR-10 (60,000 images)
-- 🛠️ Custom hyperparameter tuning & real-time monitoring
+- 🔍 **Wide Coverage**: Handles various image categories with 75% accuracy.  
+- 🛠️ **Custom Tuning**: Improved performance through hyperparameter optimization.  
+- 📊 **Dataset-Driven**: Trained on CIFAR-10 with 60,000 images.  
 
 [View Project](https://github.com/bniladridas/deepvision)
+
+---
+
+## 💡 **Tech Stack**
+- **Programming Languages:** Python, JavaScript, Bash  
+- **Frameworks & Tools:** TensorFlow, Streamlit, Flask, React  
+- **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+- **DevOps:** Docker, Git, CI/CD Pipelines  
+- **Platforms:** Linux, AWS, Vercel  
+
+---
+
+## 🔗 **Connect with Me**
+- 📬 [LinkedIn](https://www.linkedin.com/in/bniladridas)  
+- 🌐 [Portfolio](https://viewniladridas.vercel.app)  
+- 🛠️ [GitHub](https://github.com/bniladridas)  
+
+---
