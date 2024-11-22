@@ -22,6 +22,7 @@
     "devops": ["Docker", "Git", "CI/CD"],
     "cloud": ["AWS", "Vercel"]
 }
+```
 
 ## 🚀 Featured Projects
 
