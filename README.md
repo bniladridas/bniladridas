@@ -1,119 +1,104 @@
 <div align="center">
-  
-## 🌟 **Featured Highlights**
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">The White Hat Gazette 📰</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/newsletters/7261117622979612672/" target="_blank">
-    <img src="/image/newsletter.png" width="100%" alt="Newsletter"/>
-  </a>
-  <p align="center">
-    Proudly curating cybersecurity insights for 805+ subscribers.
-  </p>
-</p>
-</td>
-<td width="50%">
-<h3 align="center">Recognized by BLACKBOX.AI 🏆</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7260746153669906432/" target="_blank">
-    <img src="/image/blackboxai.png" width="100%" alt="BLACKBOX.AI"/>
-  </a>
-  <p align="center">
-    Celebrated for cutting-edge AI contributions and innovation.
-  </p>
-</p>
-</td>
-</tr>
+![Image](https://raw.githubusercontent.com/bniladridas/images/main/nicolas-lobos-NR_tXTuyTak-unsplash%20(1).jpg)
 
-<tr>
-<td width="50%">
-<h3 align="center">GitHub Portfolio 💻</h3>
-<p align="center">
-  <a href="https://github.com/bniladridas" target="_blank">
-    <img src="/image/github.png" width="100%" alt="GitHub Stats"/>
-  </a>
-  <p align="center">
-    Explore my open-source projects and contributions.
-  </p>
-</td>
-<td width="50%">
-<h3 align="center">LeetCode Profile ⚡</h3>
-<p align="center">
-  <a href="https://leetcode.com/u/bniladridas/" target="_blank">
-    <img src="/image/leetcode.jpeg" width="100%" alt="LeetCode Stats"/>
-  </a>
-  <p align="center">
-    Tackling coding challenges with passion and precision.
-  </p>
-</td>
-</tr>
-</table>
+# Niladri Das
+### AI Engineer & Full Stack Developer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bniladridas)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://viewniladridas.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bniladridas)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bniladridas)
+
 </div>
 
----
+## 🔧 Tech Stack
+```python
+{
+    "languages": ["Python", "JavaScript", "Bash"],
+    "ai_ml": ["TensorFlow", "PyTorch", "Scikit-learn"],
+    "data_science": ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
+    "web_dev": ["React", "Flask", "Streamlit"],
+    "devops": ["Docker", "Git", "CI/CD"],
+    "cloud": ["AWS", "Vercel"]
+}
 
-## 🔧 **About Me**
+## 🚀 Featured Projects
 
-I'm a passionate **AI Innovator** and **Cybersecurity Advocate** committed to leveraging technology for impactful solutions. My expertise spans **Machine Learning**, **Deep Learning**, and **Data Science**, combined with hands-on experience in **full-stack development** and **Linux systems**. I thrive on solving challenging problems and driving innovation, whether through open-source contributions or curated newsletters.
+### Age Prediction AI
+Real-time age estimation using deep learning and computer vision.
+```yaml
+Tech Stack:
+  - TensorFlow
+  - Computer Vision
+  - Streamlit
+  - Python
+Highlights:
+  - 20,000+ training images
+  - Custom CNN architecture
+  - Real-time processing
+```
+[View Code](https://github.com/bniladridas/age-pred) | [Live Demo](https://age-pred.vercel.app/)
 
----
+### Churn Prediction Engine
+Customer churn prediction system with 90%+ accuracy.
+```yaml
+Tech Stack:
+  - Random Forest
+  - Python
+  - Pandas
+  - Seaborn
+Features:
+  - 243,000+ data points
+  - Advanced feature engineering
+  - Statistical analysis
+```
+[View Code](https://github.com/bniladridas/ChurnPrediction)
 
-## 🚀 **Featured Projects**
+### DeepVision Classifier
+Advanced image classification using MobileNetV2.
+```yaml
+Tech Stack:
+  - TensorFlow
+  - MobileNetV2
+  - Python
+  - CIFAR-10
+Features:
+  - 75% accuracy
+  - Transfer learning
+  - Custom model tuning
+```
+[View Code](https://github.com/bniladridas/deepvision)
 
-### 🔮 **Age Prediction AI**  
-`Machine Learning` `Computer Vision` `Streamlit` `TensorFlow`
+## 📈 GitHub Stats
 
-An intuitive age prediction tool powered by deep learning, instantly estimating age from images with precision.
+```python
+# Continuous Learning & Contribution Stats
+contributions = {
+    "repositories": "15+ public repos",
+    "saved_stars": "20+ public repos",
+    "commits": "500+ in last year"
+}
+```
 
-- 📱 **Responsive UI**: Built with Streamlit for seamless user interaction.  
-- 🧠 **High Accuracy**: Trained on 20,000+ images with a fine-tuned CNN model.  
-- ⚡ **Real-Time Results**: Optimized for speed with TensorFlow and Keras.  
+## 🎯 Expertise
+```python
+specializations = [
+    "Machine Learning & Deep Learning",
+    "Computer Vision",
+    "Full Stack Development",
+    "Data Science & Analytics",
+    "DevOps & Cloud Architecture"
+]
+```
 
-[View Project](https://github.com/bniladridas/age-pred) • [Live Demo](https://age-pred.vercel.app/)
-
----
-
-### 📊 **Churn Prediction Engine**  
-`Data Science` `Random Forest` `Python` `Seaborn`
-
-Predicts subscriber churn for streaming platforms with over 90% accuracy, empowering businesses to retain customers.
-
-- 💾 **Big Data Handling**: Processed 243,000+ entries for robust model training.  
-- 🎯 **High Reliability**: Achieved over 90% prediction accuracy.  
-- 📈 **Data Insights**: Visualized key trends with Seaborn and Matplotlib.  
-
-[View Project](https://github.com/bniladridas/ChurnPrediction)
-
----
-
-### 🖼️ **DeepVision Classifier**  
-`Deep Learning` `TensorFlow` `MobileNetV2` `CIFAR-10`
-
-A state-of-the-art image classification system designed for diverse object recognition tasks.
-
-- 🔍 **Wide Coverage**: Handles various image categories with 75% accuracy.  
-- 🛠️ **Custom Tuning**: Improved performance through hyperparameter optimization.  
-- 📊 **Dataset-Driven**: Trained on CIFAR-10 with 60,000 images.  
-
-[View Project](https://github.com/bniladridas/deepvision)
-
----
-
-## 💡 **Tech Stack**
-- **Programming Languages:** Python, JavaScript, Bash  
-- **Frameworks & Tools:** TensorFlow, Streamlit, Flask, React  
-- **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-- **DevOps:** Docker, Git, CI/CD Pipelines  
-- **Platforms:** Linux, AWS, Vercel  
-
----
-
-## 🔗 **Connect with Me**
-- 📬 [LinkedIn](https://www.linkedin.com/in/bniladridas)  
-- 🌐 [Portfolio](https://viewniladridas.vercel.app)  
-- 🛠️ [GitHub](https://github.com/bniladridas)  
-
----
+## 📫 Get in Touch
+```python
+contact_info = {
+    "email": "ndas.contact@gmail.com",
+    "linkedin": "linkedin.com/in/bniladridas",
+    "github": "github.com/bniladridas",
+    "x": "x.com/bniladridas",
+    "portfolio": "viewniladridas.vercel.app"
+}
+```
