@@ -2,17 +2,25 @@
 
 ![Image](https://raw.githubusercontent.com/bniladridas/images/main/nicolas-lobos-NR_tXTuyTak-unsplash%20(1).jpg)
 
-# Niladri Das
-### AI Engineer & Full Stack Developer
+# Niladri Das  
+### AI Engineer & Full Stack Developer  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bniladridas)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://viewniladridas.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bniladridas)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bniladridas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bniladridas)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://viewniladridas.vercel.app)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bniladridas)  
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bniladridas)  
+
+---
+
+### Portfolio's Behind-the-Scenes  
+![Flow of Deployment and Request Lifecycle](https://raw.githubusercontent.com/bniladridas/bniladridas/main/image/flow%20of%20the%20deployment%20and%20request%20lifecycle.png)  
 
 </div>
 
-## 🔧 Tech Stack
+---
+
+## 🔧 Tech Stack  
+
 ```python
 {
     "languages": ["Python", "JavaScript", "Bash"],
