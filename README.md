@@ -1,1 +1,1 @@
-Niladri here. I'm a data scientist proficient in developing and deploying AI and machine learning solutions. My expertise includes building descriptive and predictive models in Python and JavaScript using frameworks like NumPy and TensorFlow. My commitment to collaborative development is evident in my contributions to over 20 open-source projects on GitHub, where I prioritize clear documentation and application-specific interfaces.
+For inquiries, send an email: [ndas1262000@gmail.com](mailto:ndas1262000@gmail.com)
