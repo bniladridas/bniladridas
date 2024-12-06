@@ -1,1 +1,8 @@
-Got a computer that's too hot to handle? Submit a pull request and show us your FIRE! 🔥
+### Tech Enthusiast & Open Source Explorer
+
+### Tech Stack
+- Tools: Git, GitHub
+- Learning: Open Source Development
+- Environment: Version Control & Collaboration
+
+🌟 Open to collaborations and learning opportunities
