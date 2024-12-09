@@ -1,6 +1,8 @@
 ### Java Gold Badge from HackerRank
 <div style="text-align: center;">
-  <img src="/image/java.png" alt="Java Gold Badge" style="max-width: 100px; margin: 5px;">
+  <a href="https://www.hackerrank.com/profile/niladrridas1">
+    <img src="/image/java.png" alt="Java Gold Badge" style="max-width: 100px; margin: 5px;">
+  </a>
 </div>
 
 ### Badges
