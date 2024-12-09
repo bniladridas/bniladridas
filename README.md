@@ -1,3 +1,8 @@
+### Java Gold Badge from HackerRank
+<div style="text-align: center;">
+  <img src="/image/java.png" alt="Java Gold Badge" style="max-width: 100px; margin: 5px;">
+</div>
+
 ### Badges
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
