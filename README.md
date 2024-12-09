@@ -23,6 +23,32 @@
   </tr>
 </table>
 
+### Projects
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://dragon-ai-assistant.vercel.app">
+        <img src="/image/project/dragon-ai-assistant.png" alt="Dragon AI Assistant" style="max-width: 100px; margin: 5px;">
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://melody-three.vercel.app">
+        <img src="/image/project/melody.png" alt="Melody - Spotify Playlist" style="max-width: 100px; margin: 5px;">
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://gravity-blog-xi.vercel.app">
+        <img src="/image/project/gravity-blog.png" alt="Gravity Blog" style="max-width: 100px; margin: 5px;">
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://xai-fox.vercel.app">
+        <img src="/image/project/xai-fox.png" alt="xAI Fox" style="max-width: 100px; margin: 5px;">
+      </a>
+    </td>
+  </tr>
+</table>
+
 ### Credly
 [Credly Profile](https://www.credly.com/users/niladridas-credly)
 
