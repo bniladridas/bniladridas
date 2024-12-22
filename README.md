@@ -1,5 +1,5 @@
 <a href="https://gazzette.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/bniladridas/images/main/freepik-artificial-intelligence-leaderboard-banner-4053785-20241221055356ZsK0.png" 
+    <img src="https://raw.githubusercontent.com/bniladridas/bniladridas/main/image/banner.png" 
          alt="AI Leaderboard Banner" 
          style="max-width: 100px; margin: 5px;">
 </a>
