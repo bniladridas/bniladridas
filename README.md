@@ -27,25 +27,21 @@
     <img src="https://img.shields.io/badge/Language-SQL-green" alt="SQL Badge" style="margin: 5px;">
     <img src="https://img.shields.io/badge/Language-HTML-orange" alt="HTML Badge" style="margin: 5px;">
     <img src="https://img.shields.io/badge/Language-CSS-blue" alt="CSS Badge" style="margin: 5px;">
-    
     <!-- Frameworks -->
     <img src="https://img.shields.io/badge/Framework-React-blue" alt="React Badge" style="margin: 5px;">
     <img src="https://img.shields.io/badge/Framework-Angular-red" alt="Angular Badge" style="margin: 5px;">
     <img src="https://img.shields.io/badge/Framework-Astro-purple" alt="Astro Badge" style="margin: 5px;">
     <img src="https://img.shields.io/badge/Framework-Flask-blue" alt="Flask Badge" style="margin: 5px;">
     <img src="https://img.shields.io/badge/Framework-Node.js-green" alt="Node.js Badge" style="margin: 5px;">
-
     <!-- Databases -->
     <img src="https://img.shields.io/badge/Database-PostgreSQL-blue" alt="PostgreSQL Badge" style="margin: 5px;">
     <img src="https://img.shields.io/badge/Database-Firebase-orange" alt="Firebase Badge" style="margin: 5px;">
-
     <!-- AI & APIs -->
     <img src="https://img.shields.io/badge/AI-ChatGPT-blue" alt="ChatGPT Badge" style="margin: 5px;">
     <img src="https://img.shields.io/badge/AI-Anthropic-purple" alt="Anthropic Badge" style="margin: 5px;">
     <img src="https://img.shields.io/badge/Tool-Copilot-green" alt="Copilot Badge" style="margin: 5px;">
     <img src="https://img.shields.io/badge/Tool-BlackboxAI-yellow" alt="Blackbox AI Badge" style="margin: 5px;">
     <img src="https://img.shields.io/badge/Framework-NVIDIA_NeMo-lightblue" alt="NVIDIA NeMo Badge" style="margin: 5px;">
-    
     <img src="https://img.shields.io/badge/API-Gemini_1.5-orange" alt="Gemini 1.5 API Badge" style="margin: 5px;">
     <img src="https://img.shields.io/badge/API-Gemini_2.0-red" alt="Gemini 2.0 API Badge" style="margin: 5px;">
     <img src="https://img.shields.io/badge/API-Grok_Beta-blue" alt="Grok Beta API Badge" style="margin: 5px;">
