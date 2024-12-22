@@ -7,7 +7,7 @@
 
 ---
 
-### Java Gold Badge from HackerRank
+### Java Gold Badge from HackerRank  
 <div style="text-align: center;">
     <a href="https://www.hackerrank.com/profile/niladrridas1">
         <img src="/image/java.png" alt="Java Gold Badge" style="max-width: 100px; margin: 5px;">
@@ -16,30 +16,46 @@
 
 ---
 
-### Programming Languages & Frameworks Badges
+### Programming Languages, Frameworks, Tools, and APIs Badges
 <div style="text-align: center;">
+    <!-- Programming Languages -->
     <img src="https://img.shields.io/badge/Language-C-blue" alt="C Badge" style="margin: 5px;">
     <img src="https://img.shields.io/badge/Language-Python-blue" alt="Python Badge" style="margin: 5px;">
     <img src="https://img.shields.io/badge/Language-JavaScript-yellow" alt="JavaScript Badge" style="margin: 5px;">
     <img src="https://img.shields.io/badge/Language-TypeScript-blue" alt="TypeScript Badge" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/Language-Go-blue" alt="Go Badge" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/Language-SQL-green" alt="SQL Badge" style="margin: 5px;">
     <img src="https://img.shields.io/badge/Language-HTML-orange" alt="HTML Badge" style="margin: 5px;">
     <img src="https://img.shields.io/badge/Language-CSS-blue" alt="CSS Badge" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/Framework-Astro-purple" alt="Astro Badge" style="margin: 5px;">
+    
+    <!-- Frameworks -->
     <img src="https://img.shields.io/badge/Framework-React-blue" alt="React Badge" style="margin: 5px;">
     <img src="https://img.shields.io/badge/Framework-Angular-red" alt="Angular Badge" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/Framework-Astro-purple" alt="Astro Badge" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/Framework-Flask-blue" alt="Flask Badge" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/Framework-Node.js-green" alt="Node.js Badge" style="margin: 5px;">
+
+    <!-- Databases -->
     <img src="https://img.shields.io/badge/Database-PostgreSQL-blue" alt="PostgreSQL Badge" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/Language-SQL-green" alt="SQL Badge" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/Language-Go-blue" alt="Go Badge" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/Technology-RestAPI-orange" alt="RestAPI Badge" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/Database-Firebase-orange" alt="Firebase Badge" style="margin: 5px;">
+
+    <!-- AI & APIs -->
     <img src="https://img.shields.io/badge/AI-ChatGPT-blue" alt="ChatGPT Badge" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/AI-Anthropic-green" alt="Anthropic Badge" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/AI-Copilot-purple" alt="Copilot Badge" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/AI-BlackboxAI-black" alt="BlackboxAI Badge" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/AI-Anthropic-purple" alt="Anthropic Badge" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/Tool-Copilot-green" alt="Copilot Badge" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/Tool-BlackboxAI-yellow" alt="Blackbox AI Badge" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/Framework-NVIDIA_NeMo-lightblue" alt="NVIDIA NeMo Badge" style="margin: 5px;">
+    
+    <img src="https://img.shields.io/badge/API-Gemini_1.5-orange" alt="Gemini 1.5 API Badge" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/API-Gemini_2.0-red" alt="Gemini 2.0 API Badge" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/API-Grok_Beta-blue" alt="Grok Beta API Badge" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/API-Spotify-green" alt="Spotify API Badge" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/API-OpenAI-blue" alt="OpenAI API Badge" style="margin: 5px;">
 </div>
 
 ---
 
-### Credly Badges
+### Credly Badges  
 <details>
     <summary>Badges</summary>
     <table style="width: 100%; border-collapse: collapse;">
@@ -102,31 +118,31 @@
 
 ---
 
-### Projects
-<details>
-    <summary>Projects</summary>
-    <table style="width: 100%; border-collapse: collapse;">
-        <tr>
-            <td style="text-align: center;">
-                <a href="https://dragon-ai-assistant.vercel.app">
-                    <img src="/image/project/dragon-ai-assistant.png" alt="Dragon AI Assistant" style="max-width: 100px; margin: 5px;">
-                </a>
-            </td>
-            <td style="text-align: center;">
-                <a href="https://melody-three.vercel.app">
-                    <img src="/image/project/melody.png" alt="Melody - Spotify Playlist" style="max-width: 100px; margin: 5px;">
-                </a>
-            </td>
-            <td style="text-align: center;">
-                <a href="https://gravity-blog-xi.vercel.app">
-                    <img src="/image/project/gravity-blog.png" alt="Gravity Blog" style="max-width: 100px; margin: 5px;">
-                </a>
-            </td>
-            <td style="text-align: center;">
-                <a href="https://xai-fox.vercel.app">
-                    <img src="/image/project/xai-fox.png" alt="xAI Fox" style="max-width: 100px; margin: 5px;">
-                </a>
-            </td>
-        </tr>
-    </table>
-</details>
+### Projects  
+<details>  
+    <summary>Projects</summary>  
+    <table style="width: 100%; border-collapse: collapse;">  
+        <tr>  
+            <td style="text-align: center;">  
+                <a href="https://dragon-ai-assistant.vercel.app">  
+                    <img src="/image/project/dragon-ai-assistant.png" alt="Dragon AI Assistant" style="max-width: 100px; margin: 5px;">  
+                </a>  
+            </td>  
+            <td style="text-align: center;">  
+                <a href="https://melody-three.vercel.app">  
+                    <img src="/image/project/melody.png" alt="Melody - Spotify Playlist" style="max-width: 100px; margin: 5px;">  
+                </a>  
+            </td>  
+            <td style="text-align: center;">  
+                <a href="https://gravity-blog-xi.vercel.app">  
+                    <img src="/image/project/gravity-blog.png" alt="Gravity Blog" style="max-width: 100px; margin: 5px;">  
+                </a>  
+            </td>  
+            <td style="text-align: center;">  
+                <a href="https://xai-fox.vercel.app">  
+                    <img src="/image/project/xai-fox.png" alt="xAI Fox" style="max-width: 100px; margin: 5px;">  
+                </a>  
+            </td>  
+        </tr>  
+    </table>  
+</details>  
