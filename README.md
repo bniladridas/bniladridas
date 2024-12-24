@@ -1,5 +1,7 @@
 # Hi there 👋
 
+> **I’m a Full Stack Developer specializing in coding, testing, deploying, and version-controlling AI software for remote projects.**
+
 - 🔭 I'm currently working on something cool!
 - 🌱 I'm currently learning with help from [docs.github.com](https://docs.github.com)
 - 🌱 I learned GitHub from [Career Essentials in GitHub Professional Certificate](https://www.linkedin.com/learning/certificates/a47fa7b95a3671b05df2a5aeebaccd812b4d77d9eb4089721a804986e74eb2d4)
