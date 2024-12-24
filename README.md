@@ -22,4 +22,4 @@
 
 * [AI Assistant with Gemini Flash](https://dragon-ai-assistant.vercel.app/)
 * [AI Assistant with Grok-Beta](https://xai-fox.vercel.app/)
-* [Blog Platform with Firebas](https://gravity-blog-xi.vercel.app/)
+* [Blog Platform with Firebase](https://gravity-blog-xi.vercel.app/)
