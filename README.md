@@ -20,17 +20,6 @@
 
 ## Projects
 
-* [AI Assistant](https://dragon-ai-assistant.vercel.app/)
-* [Blog Platform](https://gravity-blog-xi.vercel.app/)
-
-## Startup
-
-<a href="https://gazzette.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/bniladridas/bniladridas/main/image/banner.png" 
-         alt="AI Leaderboard Banner" 
-         style="max-width: 100%; margin: 5px;">
-</a>
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+* [AI Assistant with Gemini Flash](https://dragon-ai-assistant.vercel.app/)
+* [AI Assistant with Grok-Beta](https://xai-fox.vercel.app/)
+* [Blog Platform with Firebas](https://gravity-blog-xi.vercel.app/)
