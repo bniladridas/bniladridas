@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../contentlayer.config.js"],
+  "sourcesContent": ["import { defineConfig } from \"contentlayer\";\n\nexport default defineConfig({\n  // Define your content models here\n  contentDirPath: \"content\", // Adjust this path as needed\n  // Add any additional content models here\n});\n"],
+  "mappings": ";AAAA,SAAS,oBAAoB;AAE7B,IAAO,8BAAQ,aAAa;AAAA;AAAA,EAE1B,gBAAgB;AAAA;AAAA;AAElB,CAAC;",
+  "names": []
+}

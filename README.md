@@ -15,6 +15,9 @@ Welcome to my personal website, built with [Next.js](https://nextjs.org/) and [T
 - Fast performance with Next.js
 - Easy navigation and user-friendly interface
 
+## GitHub Language Usage Chart
+This section displays a live graph chart that calculates and shows the coding usage by language from my GitHub profile. To view the chart, please visit the homepage of the application.
+
 ## Getting Started
 To get started with this project, clone the repository and install the necessary dependencies:
 
