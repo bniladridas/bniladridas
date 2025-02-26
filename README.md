@@ -1,5 +1,8 @@
 # bniladridas
 
+[![Version](https://img.shields.io/badge/version-v1.0-blue)](https://github.com/bniladridas/bniladridas)
+[![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow)](https://www.javascript.com)
+
 ```
   / \__
  (    @\___
@@ -35,6 +38,70 @@ To run the project locally, use the following command:
 ```
 
 Visit `http://localhost:3000` in your browser to see the application in action.
+
+## Git Operations
+Here are the Git commands used in this project:
+
+- **Clone the repository**:
+  ```bash
+  git clone https://github.com/bniladridas/bniladridas.git
+  ```
+
+- **Stage changes**:
+  ```bash
+  git add <file>
+  ```
+
+- **Commit changes**:
+  ```bash
+  git commit -m "Commit message"
+  ```
+
+- **Push changes**:
+  ```bash
+  git push
+  ```
+
+### Troubleshooting Git Commands
+During troubleshooting, the following Git commands were used:
+
+- **Check the status of the repository**:
+  ```bash
+  git status
+  ```
+
+- **List all branches**:
+  ```bash
+  git branch -a
+  ```
+
+- **Remove untracked files**:
+  ```bash
+  git clean -fd
+  ```
+
+- **Force push changes**:
+  ```bash
+  git push --force
+  ```
+
+## Deployment
+To deploy this project, you can use [Vercel](https://vercel.com/), the recommended platform for Next.js applications. Follow these steps:
+
+1. **Install Vercel CLI**:
+   ```bash
+   npm install -g vercel
+   ```
+
+2. **Login to Vercel**:
+   ```bash
+   vercel login
+   ```
+
+3. **Deploy the application**:
+   ```bash
+   vercel
+   ```
 
 ## Debugging and Solutions
 During the development process, we encountered several issues that were resolved as follows:
