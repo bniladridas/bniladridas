@@ -1,0 +1,17 @@
+# Ignore Next.js build output
+.next
+
+# Ignore node_modules
+node_modules
+
+# Ignore environment variables
+.env
+.env.local
+
+# Ignore IDE specific files
+.vscode
+.idea
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
