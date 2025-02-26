@@ -1,5 +1,13 @@
 # bniladridas
 
+```
+  / \__
+ (    @\___
+ /         O
+/   (_____/
+/_____/   U
+```
+
 Welcome to my personal website, built with [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/). This site showcases my work and contributions as a Full Stack Developer specializing in AI, cloud computing, and high-performance applications.
 
 ## Features
