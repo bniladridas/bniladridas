@@ -1,15 +1,11 @@
+Connect me on **Discord** [🚀](https://discord.com/invite/fpCnfrSV)
+
 # bniladridas
 
 [![Version](https://img.shields.io/badge/version-v1.0-blue)](https://github.com/bniladridas/bniladridas)
 [![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow)](https://www.javascript.com)
 
-```
-  / \__
- (    @\___
- /         O
-/   (_____/
-/_____/   U
-```
+![full-stack-developer](https://github.com/bniladridas/bniladridas/blob/main/full-stack-developer.png)
 
 Welcome to my personal website, built with [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/). This site showcases my work and contributions as a Full Stack Developer specializing in AI, cloud computing, and high-performance applications.
 
