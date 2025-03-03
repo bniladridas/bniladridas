@@ -53,8 +53,21 @@ export default function Home() {
   }, []);
 
   return (
-    <div>
-      <h1>Welcome to the Bniladridas App!</h1>
+    <div style={{
+      background: 'linear-gradient(135deg, rgba(173, 216, 230, 0.5), rgba(255, 182, 193, 0.5))',
+      backdropFilter: 'blur(10px)',
+      height: '100vh',
+      display: 'flex',
+      flexDirection: 'column',
+      justifyContent: 'center',
+      alignItems: 'center',
+      color: 'white',
+      textAlign: 'center'
+    }}>
+      <h1 style={{
+        fontSize: '4rem',
+        textShadow: '2px 2px 4px rgba(0, 0, 0, 0.5)',
+      }}>Full Stack Developer</h1>
       {loading ? (
         <p>Loading chart data...</p>
       ) : (
