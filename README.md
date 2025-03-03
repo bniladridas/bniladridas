@@ -1,3 +1,6 @@
+❤️ Where you can find my software? ☺️ [Here](https://rubygems.org/gems/friday_gemini_ai), or install directly from [RubyGems
+](https://github.com/bniladridas/friday_gemini_ai/pkgs/rubygems/friday_gemini_ai).
+
 Connect me on **Discord** [🚀](https://discord.com/invite/fpCnfrSV)
 
 # bniladridas
