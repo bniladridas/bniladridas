@@ -1,8 +1,13 @@
 ```cpp
 #include <iostream>
 
+void buildWhatMatters() {
+    std::cout << "Code for clarity, connection, and impact." << std::endl;
+}
+
 int main() {
-    std::cout << "Hello, GitHub!" << std::endl;
+    std::cout << "Hey, I’m Niladri! " << std::endl;
+    buildWhatMatters();
     return 0;
 }
 ```
