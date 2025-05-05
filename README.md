@@ -2,17 +2,13 @@
 #include <iostream>
 
 void buildWhatMatters() {
-    std::cout << "Code for clarity, connection, and impact." << std::endl;
+    std::cout << "Crafting code for clarity & connection." << std::endl;
 }
 
 int main() {
-    std::cout << "Hey, I’m Niladri! " << std::endl;
+    std::cout << "Hi, I’m Niladri!" << std::endl;
     buildWhatMatters();
     return 0;
 }
 ```
-
-<h2 align="center" style="font-family: 'Inter', sans-serif; font-weight: 600; color: #e0e0e0; margin-bottom: 16px;"> GitHub Snapshot </h2> <p align="center" style="margin: 12px 0;"> <a href="https://github.com/bniladridas?tab=stars"> <img src="https://img.shields.io/github/stars/bniladridas?affiliations=OWNER&style=flat-square&color=#f0b93e&label=Stars&labelColor=#2e2e2e" alt="GitHub Stars"/> </a> <a href="https://github.com/bniladridas?tab=followers"> <img src="https://img.shields.io/github/followers/bniladridas?style=flat-square&color=#4a9876&label=Followers&labelColor=#2e2e2e" alt="GitHub Followers"/> </a> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bniladridas&layout=compact&hide_title=true&card_width=300&langs_count=5&theme=nightowl&border_radius=6&hide_border=true" alt="Top Languages"/> </p>
-<p align="center" style="font-family: 'Inter', sans-serif; font-size: 14px; color: #b0b0b0;">
-  Building tech for clarity and connection · <a href="https://syntharaai.vercel.app/">Portfolio</a>
-</p>
+<h2 align="center" style="font-family: 'Inter', sans-serif; font-weight: 500; font-size: 22px; color: #d8d8d8; margin: 20px 0 14px;"> GitHub Snapshot </h2> <p align="center" style="margin: 10px 0;"> <a href="https://github.com/bniladridas?tab=stars"> <img src="https://img.shields.io/github/stars/bniladridas?affiliations=OWNER&style=flat-square&color=#e6b422&label=Stars&labelColor=#262626" alt="GitHub Stars"/> </a> <a href="https://github.com/bniladridas?tab=followers"> <img src="https://img.shields.io/github/followers/bniladridas?style=flat-square&color=#3e8e6a&label=Followers&labelColor=#262626" alt="GitHub Followers"/> </a> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bniladridas&layout=compact&hide_title=true&card_width=280&langs_count=5&theme=moonlight&border_radius=4&hide_border=true" alt="Top Languages"/> </p> <p align="center" style="font-family: 'Inter', sans-serif; font-size: 13px; color: #a0a0a0; margin-top: 12px;"> Building tech for impact · <a href="https://syntharaai.vercel.app/" style="color: #a0a0a0; text-decoration: none;">Portfolio</a> </p>
