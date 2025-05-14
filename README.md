@@ -1,47 +1,36 @@
-# 👋 Hey, I'm Niladri!
+**Niladri.**  
+*Building tech that connects and inspires.*  
 
-Building tech that matters—with clarity, connection, and a touch of creativity.
-Currently crafting impactful solutions at [SyntharaAI](https://syntharaai.vercel.app/).
+At [SyntharaAI](https://syntharaai.vercel.app/), I craft solutions that are clear, impactful, and human at heart. Code isn’t just syntax—it’s a way to create, connect, and make a difference.  
 
 ---
 
-## 💻 My Coding Philosophy
-
-I believe in crafting code that’s clear, meaningful, and people-centric. Here’s a snippet that sums me up:
+**Code with purpose.**  
+I write to solve problems and spark ideas. Here’s my philosophy, distilled:  
 
 ```cpp
 #include <iostream>
 
-void buildWhatMatters() {
-    std::cout << "Crafting code for clarity & connection." << std::endl;
+void createImpact() {
+    std::cout << "Code for clarity. Code for connection." << std::endl;
 }
 
 int main() {
-    std::cout << "Hi, I’m Niladri!" << std::endl;
-    buildWhatMatters();
+    std::cout << "Hello, I’m Niladri." << std::endl;
+    createImpact();
     return 0;
 }
 ```
 
-This is my way of saying: I write code to make an impact, one line at a time.
+Every line is a step toward something meaningful.  
 
 ---
 
-## 📊 My GitHub Journey
-
-I’m passionate about open source and community-driven tech. Here’s a snapshot of my contributions:
-
-<p align="center">
-  <a href="https://github.com/bniladridas?tab=stars">
-    <img src="https://img.shields.io/github/stars/bniladridas?affiliations=OWNER&style=flat-square&color=e6b422&label=Stars&labelColor=262626" alt="GitHub Stars"/>
-  </a>
-  <a href="https://github.com/bniladridas?tab=followers">
-    <img src="https://img.shields.io/github/followers/bniladridas?style=flat-square&color=3e8e6a&label=Followers&labelColor=262626" alt="GitHub Followers"/>
-  </a>
-</p>
+**My journey in code.**  
+Open source is my playground, collaboration my strength. From diverse tech stacks to community-driven projects, I build with passion.  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bniladridas&layout=compact&hide_title=true&card_width=280&langs_count=5&theme=radical&border_radius=6&hide_border=true" alt="Top Languages"/>
 </p>
 
-These stats reflect my love for diverse tech stacks and meaningful collaboration.
+Explore my work. Join the conversation. Let’s create something extraordinary together.  
